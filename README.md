@@ -24,7 +24,7 @@ I'm an AI and Automation Enthusiast exploring agentic workflows. currently study
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,react,vite,tailwind,n8n,git,mongodb,docker,gcp,aws,linux" />
+    <img src="https://skillicons.dev/icons?i=python,git,mongodb,docker,n8n" />
   </a>
 </p>
 
@@ -35,6 +35,7 @@ I'm an AI and Automation Enthusiast exploring agentic workflows. currently study
   <img src="https://img.shields.io/badge/RAG-009688?style=flat&logo=bookstack&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" height="30"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" height="30"/>
 </p>
 
 ---
