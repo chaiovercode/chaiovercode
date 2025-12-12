@@ -42,15 +42,10 @@ I'm an AI Engineer and Automation Enthusiast exploring agentic workflows. curren
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaiovercode&show_icons=true&theme=tokyonight&hide_border=true" alt="chaiovercode's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaiovercode&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="left">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaiovercode&theme=tokyonight&hide_border=true" alt="chaiovercode's Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaiovercode&theme=tokyonight" alt="chaiovercode's Stats" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chaiovercode&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
