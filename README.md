@@ -4,7 +4,7 @@
 
 I'm an AI and Automation Enthusiast exploring agentic workflows. currently studying AI in business at **ISB, Hyderabad** and working to bridge the gap between AI & reliability.
 
----
+--
 
 ### Featured Projects
 
@@ -18,7 +18,7 @@ I'm an AI and Automation Enthusiast exploring agentic workflows. currently study
 >
 > *Stack:* CrewAI, LangGraph, Python
 
----
+--
 
 ### Tech Stack
 
@@ -43,13 +43,11 @@ I'm an AI and Automation Enthusiast exploring agentic workflows. currently study
 
 **Dev & Core**
 <br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="30"/>
 
----
+--
 
 ### Work Highlights
 
@@ -58,16 +56,16 @@ I'm an AI and Automation Enthusiast exploring agentic workflows. currently study
 - **24/7 Community Automation**: Auto-replies & logging using n8n for Instagram/Telegram.
 - **Player Analytics**: Valuation systems used by fantasy players, reaching millions.
 
----
+--
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaiovercode&theme=tokyonight" alt="chaiovercode's Stats" />
 </p>
 
----
+--
 
 ### Let's Connect
 
 <p align="left">
-  <a href="https://github.com/chaiovercode" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="30"/></a><a href="https://x.com/chaiovercode" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=&logoColor=white" height="30"/></a><a href="https://www.linkedin.com/in/vivektiwari13/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="30"/></a><a href="https://instagram.com/chaiovercode" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="30"/></a><a href="https://chaiovercode.substack.com/" target="_blank"><img src="https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white" height="30"/></a><a href="mailto:chaiovercode@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="30"/></a>
+<a href="https://x.com/chaiovercode" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=&logoColor=white" height="30"/></a><a href="https://www.linkedin.com/in/vivektiwari13/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="30"/></a><a href="https://instagram.com/chaiovercode" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="30"/></a><a href="https://chaiovercode.substack.com/" target="_blank"><img src="https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white" height="30"/></a><a href="mailto:chaiovercode@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="30"/></a>
 </p>
