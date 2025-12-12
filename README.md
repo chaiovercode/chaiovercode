@@ -37,7 +37,7 @@ I'm an AI and Automation Enthusiast exploring agentic workflows. currently study
 
 **Data & Viz**
 <br>
-<img src="https://img.shields.io/badge/Tableau-FFFFFF?style=flat&logo=tableau&logoColor=black" height="30"/>
+<a href="https://public.tableau.com/app/profile/chaiovercode/vizzes" target="_blank"><img src="https://img.shields.io/badge/Tableau-FFFFFF?style=flat&logo=tableau&logoColor=black" height="30"/></a>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/Gradio-FF4B4B?style=flat&logo=gradio&logoColor=white" height="30"/>
 
