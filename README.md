@@ -1,41 +1,48 @@
-# Hi there 👋 I'm Vivek
+# Hi there 👋 I'm Vivek Tiwari
 
-### AI Engineer | Automation Enthusiast | Chai Lover
+### building systems that think & execute.
 
-Welcome to my profile! I'm passionate about building intelligent systems and automating the boring stuff. When I'm not coding, you can find me enjoying a fresh cup of chai.
-
----
-
-### What I'm Up To
-
-- Leveraging **LLMs** for intelligent automation
-- Building complex workflows with **n8n**
-- Experimenting with **Hugging Face** transformers
-- Developing **Full-Stack AI Applications**
+I'm an AI Engineer and Automation Enthusiast exploring agentic workflows. currently studying AI in business at **ISB, Hyderabad** and working to bridge the gap between AI & reliability.
 
 ---
 
-### Tech Stack
+### 🚀 Featured Projects
 
-<p align="left">
-  <!-- Languages -->
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  
-  <!-- AI/ML -->
-  <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
-  <a href="https://openai.com/" target="_blank"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /></a>
-  
-  <!-- Tools -->
-  <a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/n8n-FF6560?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-</p>
+#### [AnnotateThis](https://github.com/chaiovercode/AnnotateThis)
+> **PDF annotation tool using Gemini.** Upload a document and it auto-highlights key insights. Experimenting with making dense PDFs easier to digest.
+> 
+> *Stack:* TypeScript, Gemini API, PDF.js
+
+#### [Stock Arena](https://github.com/chaiovercode/stockarena)
+> **Stock analysis using multiple AI agents.** Three agents debate—bull, bear, and judge—to analyze stocks from different angles. Exploring CrewAI patterns.
+>
+> *Stack:* CrewAI, LangGraph, Python
 
 ---
 
-### GitHub Stats
+### 🛠️ Tech Stack
+
+**AI & LLMs**
+![CrewAI](https://img.shields.io/badge/CrewAI-orange?style=flat-square&logo=robot) ![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-Systems-green?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-Protocol-purple?style=flat-square)
+
+**Automation & Data**
+![n8n](https://img.shields.io/badge/n8n-FF6560?style=flat-square&logo=n8n&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+---
+
+### ⚡ Work Highlights
+
+- **RAG Knowledge Hub**: Reduced search time for internal queries.
+- **AI Call Quality System**: Automated call analytics pipeline with S3 & ElevenLabs.
+- **24/7 Community Automation**: Auto-replies & logging using n8n for Instagram/Telegram.
+- **Player Analytics**: Valuation systems used by fantasy players, reaching millions.
+
+---
+
+### 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=chaiovercode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="chaiovercode's Stats" />
@@ -48,18 +55,27 @@ Welcome to my profile! I'm passionate about building intelligent systems and aut
 
 ---
 
-### Let's Connect
+### 👯 Let's Connect
 
 <p align="left">
   <a href="https://github.com/chaiovercode" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <!-- Add your Twitter/LinkedIn here if you have them -->
-  <!-- 
-  <a href="https://twitter.com/your-username" target="_blank">
+  <a href="https://x.com/chaiovercode" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  -->
+  <a href="https://www.linkedin.com/in/vivektiwari13/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/chaiovercode" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://chaiovercode.substack.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/>
+  </a>
+  <a href="mailto:chaiovercode@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
