@@ -1,21 +1,21 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Vivek
+# Hi there 👋 I'm Vivek
 
-### 👨‍💻 AI Engineer | Automation Enthusiast | Chai Lover ☕
+### AI Engineer | Automation Enthusiast | Chai Lover
 
 Welcome to my profile! I'm passionate about building intelligent systems and automating the boring stuff. When I'm not coding, you can find me enjoying a fresh cup of chai.
 
 ---
 
-### 🔭 What I'm Up To
+### What I'm Up To
 
-- 🤖 Leveraging **LLMs** for intelligent automation
-- 🔄 Building complex workflows with **n8n**
-- 🧠 Experimenting with **Hugging Face** transformers
-- 🚀 Developing **Full-Stack AI Applications**
+- Leveraging **LLMs** for intelligent automation
+- Building complex workflows with **n8n**
+- Experimenting with **Hugging Face** transformers
+- Developing **Full-Stack AI Applications**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <!-- Languages -->
@@ -35,7 +35,7 @@ Welcome to my profile! I'm passionate about building intelligent systems and aut
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=chaiovercode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="chaiovercode's Stats" />
@@ -48,7 +48,7 @@ Welcome to my profile! I'm passionate about building intelligent systems and aut
 
 ---
 
-### 👯 Let's Connect
+### Let's Connect
 
 <p align="left">
   <a href="https://github.com/chaiovercode" target="_blank">
@@ -65,5 +65,5 @@ Welcome to my profile! I'm passionate about building intelligent systems and aut
 ---
 
 <p align="center">
-  <i>"Code runs on caffeine, but greatness runs on Chai."</i> ☕
+  <i>"Code runs on caffeine, but greatness runs on Chai."</i>
 </p>
