@@ -58,18 +58,18 @@ I'm an AI and Automation Enthusiast exploring agentic workflows. currently study
 
 <p align="left">
   <a href="https://github.com/chaiovercode" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="30"/>
   </a>
   <a href="https://x.com/chaiovercode" target="_blank">
-    <img src="https://skillicons.dev/icons?i=x" />
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" height="30"/>
   </a>
   <a href="https://www.linkedin.com/in/vivektiwari13/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="30"/>
   </a>
   <a href="https://instagram.com/chaiovercode" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="30"/>
   </a>
   <a href="mailto:chaiovercode@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="30"/>
   </a>
 </p>
