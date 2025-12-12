@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Vivek Tiwari
+# Hi there 👋 I'm Vivek Tiwari.
 
 ### building systems that think & execute.
 
