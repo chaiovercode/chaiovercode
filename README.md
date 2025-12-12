@@ -44,8 +44,6 @@ I'm an AI Engineer and Automation Enthusiast exploring agentic workflows. curren
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaiovercode&theme=tokyonight" alt="chaiovercode's Stats" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chaiovercode&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
