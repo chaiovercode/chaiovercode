@@ -8,15 +8,25 @@ I'm an AI and Automation Enthusiast exploring agentic workflows. currently study
 
 ### Featured Projects
 
-#### [AnnotateThis](https://github.com/chaiovercode/AnnotateThis)
-> **PDF annotation tool using Gemini.** Upload a document and it auto-highlights key insights. Experimenting with making dense PDFs easier to digest.
-> 
-> *Stack:* TypeScript, Gemini API, PDF.js
+#### [Narrativ](https://chaiovercode.com/narrativ)
+> **AI-powered visual storytelling app.** Research any topic, generate beautiful image carousels, and export ready-to-post content. Local-first with iCloud sync.
+>
+> *Stack:* Tauri, React, Python, Gemini API
+
+#### [AQI Map](https://github.com/chaiovercode/ai-engineering/blob/main/prompts/aqi.py)
+> **Generative art engine for air quality.** Paints your city's air quality in real-time using satellite data to render 3D miniatures—smoggy for Delhi, clear for Bangalore.
+>
+> *Stack:* Python, Gemini
 
 #### [Stock Arena](https://github.com/chaiovercode/stockarena)
 > **Stock analysis using multiple AI agents.** Three agents debate—bull, bear, and judge—to analyze stocks from different angles. Exploring CrewAI patterns.
 >
 > *Stack:* CrewAI, LangGraph, Python
+
+#### [AnnotateThis](https://github.com/chaiovercode/AnnotateThis)
+> **PDF annotation tool using Gemini.** Upload a document and it auto-highlights key insights. Experimenting with making dense PDFs easier to digest.
+>
+> *Stack:* TypeScript, Gemini API, PDF.js
 
 --
 
