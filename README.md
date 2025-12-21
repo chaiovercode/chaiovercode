@@ -13,6 +13,11 @@ I'm an AI and Automation Enthusiast exploring agentic workflows. currently study
 >
 > *Stack:* Tauri, React, Python, Gemini API
 
+#### [AI Leadership Notes](https://github.com/chaiovercode/ai-leadership-notes)
+> **AI Leadership Notes.** Strategic frameworks, case studies, and notes on leading AI initiatives and leveraging generative AI for business impact.
+>
+> *Stack:* HTML, Github Actions, ClaudeCode
+
 #### [AQI Map](https://github.com/chaiovercode/ai-engineering/blob/main/prompts/aqi.py)
 > **Generative art engine for air quality.** Paints your city's air quality in real-time using satellite data to render 3D miniatures—smoggy for Delhi, clear for Bangalore.
 >
@@ -22,11 +27,6 @@ I'm an AI and Automation Enthusiast exploring agentic workflows. currently study
 > **Stock analysis using multiple AI agents.** Three agents debate—bull, bear, and judge—to analyze stocks from different angles. Exploring CrewAI patterns.
 >
 > *Stack:* CrewAI, LangGraph, Python
-
-#### [AnnotateThis](https://github.com/chaiovercode/AnnotateThis)
-> **PDF annotation tool using Gemini.** Upload a document and it auto-highlights key insights. Experimenting with making dense PDFs easier to digest.
->
-> *Stack:* TypeScript, Gemini API, PDF.js
 
 --
 
