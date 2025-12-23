@@ -13,6 +13,11 @@ I'm an AI and Automation Enthusiast exploring agentic workflows. currently study
 >
 > *Stack:* Tauri, React, Python, Gemini API
 
+#### [GapTrack](https://github.com/chaiovercode/gaptrack)
+> **AI-powered resume gap analysis and tracking tool.** Analyze your resume and identify gaps resume and job description.
+>
+> *Stack:* Gemini API, Ollama
+
 #### [AI Leadership Notes](https://github.com/chaiovercode/ai-leadership-notes)
 > **AI Leadership Notes.** Strategic frameworks, case studies, and notes on leading AI initiatives and leveraging generative AI for business impact.
 >
