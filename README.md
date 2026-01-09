@@ -39,7 +39,6 @@ I'm an AI and Automation Enthusiast exploring agentic workflows. currently study
 
 **AI & LLMs**
 <br>
-<img src="https://img.shields.io/badge/CrewAI-CB3837?style=flat&logo=robot&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/LangGraph-1C2C50?style=flat&logo=mediafire&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/RAG-009688?style=flat&logo=bookstack&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" height="30"/>
