@@ -2,7 +2,7 @@
 
 ### building systems that think & execute.
 
-AI & Automation at **Boom Games, Bengaluru**. Studying AI in Business at **ISB, Hyderabad**. Exploring agentic workflows, multi-agent systems, and the space between AI and reliability.
+AI & Automation at **Funds India, Bengaluru**. Exploring agentic workflows, multi-agent systems, and the space between AI and reliability.
 
 <a href="https://chaiovercode.com" target="_blank"><strong>chaiovercode.com</strong></a>
 
